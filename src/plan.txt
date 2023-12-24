@@ -1,0 +1,10 @@
+
+
+Othello Game Design
+
+* Set up game
+* Get session information
+
+
+
+* Play game
